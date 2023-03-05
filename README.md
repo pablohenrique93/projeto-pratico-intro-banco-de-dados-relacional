@@ -2,13 +2,13 @@
 
 #### Com base nas informações abaixo, faça todas as atividades pedidas.
 
-#### Autores: codautor, nome, nacionalidade
-#### Livros: codlivro, codautor, titulo, editora, edicao, numeropagina
+- Autores: codautor, nome, nacionalidade
+- Livros: codlivro, codautor, titulo, editora, edicao, numeropagina
 
 
-- Crie o banco de dados acima com o nome “biblioteca_database”;
-- Crie a tabela “Autores” e a tabela “Livros”;
-- Alimente as duas tabelas com pelo menos 20 registros em cada, da sua preferência.
+ 1) Crie o banco de dados acima com o nome “biblioteca_database”;
+ 2) Crie a tabela “Autores” e a tabela “Livros”;
+ 3) Alimente as duas tabelas com pelo menos 20 registros em cada, da sua preferência.
 
 ##### Realize as consultas abaixo:
 
